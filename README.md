@@ -5,6 +5,11 @@
 
 # TEAM NAME - AJS
 
+# Team Memmers:
+> Ashish K (19PD06)
+> Jegadeesh Manickam M S (19PD15)
+> Saishyam K (19PD30)
+
 ## TASKS DONE:
 
 - [x] Merging Datasets and Preprocessing.
