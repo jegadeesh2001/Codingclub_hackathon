@@ -5,7 +5,7 @@
 
 # TEAM NAME - AJS
 
-# Team Memmers:
+# Team Members:
 > Ashish K (19PD06)
 > Jegadeesh Manickam M S (19PD15)
 > Saishyam K (19PD30)
